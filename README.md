@@ -6,7 +6,7 @@ Task description: Implement a method that prints all dates between two given yea
 
 task example:
 
-Enter the start year: 2214
+Enter the start year: 2214\
 Enter the end year: 2238
 
 returns the following dates:
