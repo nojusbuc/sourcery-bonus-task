@@ -11,6 +11,6 @@ Enter the end year: 2238
 
 returns the following dates:
 
-2220-02-22
-2221-12-22
+2220-02-22\
+2221-12-22\
 2230-03-22
